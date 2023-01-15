@@ -19,7 +19,7 @@
                     "kind": "bin"
                 }
             },
-            "args": [],
+            "args": ["Minha nota 123"],
             "cwd": "${workspaceFolder}"
         },
         {
